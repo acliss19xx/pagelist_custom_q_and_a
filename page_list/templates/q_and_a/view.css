@@ -1,0 +1,74 @@
+div.ccm-page-list-top-menu {
+	height: 120px;
+	margin: auto;
+}
+
+div.top-pagelist-image
+{
+	float:left;
+	width: 20%;
+	height:100%;
+	text-align: center;
+}
+
+div.top-pagelist-image .image
+{
+	width: 98%;
+	height: 98%;
+	text-align: center;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+
+
+div.top-pagelist-image .image:hover
+{
+	padding-top: 3px;
+	padding-left: 3px;
+}
+
+
+div.ccm-page-list-rss-icon {margin-top: 5px}
+
+.q_and_a{
+	background-color: #FFFFEE;
+	border: 2px solid #808000;
+	border-radius: 25px 25px 25px 25px / 25px 25px 25px 25px;
+	padding: 10px 10px 0px 10px;
+}
+
+.q_a_border
+{
+	clear: both;
+	background-image: url(images/line.gif);
+	height : 20px;
+}
+
+.q-image{
+	float:left;
+	background-image:url(images/q.gif);
+	height : 30px;
+	width : 30px;
+}
+
+.q-content{
+	margin-left: 40px;
+}
+
+.a-image{
+	float:left;
+	background-image:url(images/a.gif);
+	height : 30px;
+	width : 30px;
+}
+
+.a-content{
+	margin-left: 40px;
+}
+
+.q_a_specer
+{
+	clear: both;
+	min-height: 5px;
+}
